@@ -4,7 +4,7 @@ Repositorio de trabajo práctico correspondiente a la materia **Fundamentos de l
 
 ## Descripción
 
-El proyecto simula un sistema básico para una administradora de consorcios. Permite cargar información sobre unidades de un edificio (número y superficie), calcular sus gastos mensuales de expensas según un valor fijo por metro cuadrado, y ordenarlas según la superficie.
+Este proyecto simula un sistema básico para una administradora de consorcios. Su función principal es gestionar la información de las unidades de un edificio. Permite cargar datos esenciales como el número de unidad y su superficie en metros cuadrados. A partir de esta información, el sistema calcula automáticamente los gastos mensuales de expensas, basándose en un valor fijo por metro cuadrado. Además, ofrece la funcionalidad de ordenar las unidades según su superficie, facilitando la visualización y el análisis de los datos.
 
 ## Conceptos aplicados
 
@@ -58,7 +58,7 @@ Este trabajo pone en práctica los temas vistos en clase:
 ## 🛠️ Requisitos
 
 - Python 3.9 o superior
-- No requiere librerías externas (Tkinter viene incluido con Python)
+- No requiere la instalación de librerías externas adicionales. La librería Tkinter necesaria para la GUI viene incluida por defecto con la instalación estándar de Python.
 
 ## 📌 Créditos
 
