@@ -34,7 +34,7 @@ Este trabajo pone en práctica los temas vistos en clase:
 
     python main.py
     El programa solicitará:
-    -   Número de unidad
+    -   Numero de unidad
     -   Superficie en m²
     -   Valor del metro cuadrado
     Y mostrará:
